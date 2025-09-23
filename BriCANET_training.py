@@ -64,7 +64,7 @@ def mbconv_block(input_tensor, filters, expansion_factor=6):
     return x
 
 # 4. Build MCCA-Net Model
-def build_mcca_net(input_shape, num_classes):
+def build_BriCANET(input_shape, num_classes):
     inputs = Input(shape=input_shape)
 
     # Initial Convolution
@@ -210,14 +210,14 @@ y = to_categorical(y, num_classes=len(class_names))
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
 # Build and Compile Model
-model = build_mcca_net(input_shape=(224, 224, 3), num_classes=len(class_names))
+model = build_BriCANET(input_shape=(224, 224, 3), num_classes=len(class_names))
 model.compile(optimizer=Adam(learning_rate=0.001), loss='categorical_crossentropy', metrics=['accuracy'])
 
 # Train the Model
 history = model.fit(X_train, y_train, validation_data=(X_test, y_test), epochs=10, batch_size=16)
 
 # Save the Model
-model.save("mcca_net_model.h5")
+model.save("BriCANET_trained.h5")
 
 # Evaluate the Model
 y_pred = model.predict(X_test)
@@ -265,3 +265,4 @@ print(f"Accuracy: {accuracy:.2f}")
 print(f"Precision: {precision:.2f}")
 print(f"Recall: {recall:.2f}")
 print(f"F1 Score: {f1:.2f}")
+
