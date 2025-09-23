@@ -65,7 +65,8 @@ C:\BriCANet\
 
 ## ⚠️ Important Disclaimer & Development Status
 ![folder-structure](images/Disclaimer.gif)
-###🔬 Research Development Phase
+
+### 🔬 Research Development Phase
 BriCANet is currently in active development and improvement phase, so this tool should be considered as a research prototype.
 
 ### 📚 Academic References
@@ -78,7 +79,17 @@ BriCANet is currently in active development and improvement phase, so this tool 
 }
 
 ### 🏆 Institutions & Collaborators
-University/Affiliation: [Dipartimento di Ingegneria Civile, Ambientale, del Territorio, Edile e di Chimica, Politecnico di Bari, Via Orabona 4, Bari, 70126, Italy] , [Istituto di Sistemi e Tecnologie Industriali Intelligenti per il
-Manifatturiero Avanzato, Consiglio Nazionale delle Ricerche, Via Amendola 122 D/O, Bari, 70126, Italy]
+University/Affiliation: 
 
-#⭐ Star this repo if you found it helpful!
+<div align="center">
+Dipartimento di Ingegneria Civile, Ambientale, del Territorio, Edile e di Chimica
+Politecnico di Bari
+Via Orabona 4, Bari, 70126, Italy
+
+Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato
+Consiglio Nazionale delle Ricerche (CNR)
+Via Amendola 122 D/O, Bari, 70126, Italy
+
+</div>
+
+### ⭐ Star this repo if you found it helpful!
