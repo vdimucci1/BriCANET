@@ -3,6 +3,9 @@
 Welcome to **BriCANet**, a powerful GUI application for corrosion intensity classification in RC structures images using deep learning. 
 This guide will help you create a standalone executable from the Python source code.
 
+📸 *Example folder screenshot here*  
+![folder-structure](images/folder.png)  
+
 ---
 
 ## 🚀 Quick Start - Create Your Executable
