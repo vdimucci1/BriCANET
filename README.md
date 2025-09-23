@@ -35,9 +35,23 @@ This guide will help you create a standalone executable from the Python source c
    pip install pyinstaller
 
 
-### 🛠️ 3. Create the executable
+### 🛠️ 3. Create the executable 
 
-Run this command in the terminal:
+1. Run this command in the terminal:
    ```bash
    pyinstaller --onefile --windowed --name="BriCANet_Classifier" --clean --noconsole --hidden-import=tensorflow --hidden-import=pil BriCANet_GUI.py
 
+⏳ Wait until PyInstaller finishes…
+
+🎉 Done! BriCANet is ready to use!
+
+---
+
+# 📊 Expected Folder Structure
+   ```bash
+C:\BriCANet\
+├── 📄 BriCANet_GUI.py          (Main application code)
+├── 📄 requirements.txt         (Dependencies list)
+├── 📁 dist/
+│   └── 🎯 BriCANet_Classifier.exe  (#Your final executable!)
+└── 📁 build/                   (Temporary build files)
