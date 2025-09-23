@@ -17,7 +17,7 @@ This guide will help you create a standalone executable from the Python source c
 ![folder-structure](images/folder.png)  
 
 
-## ⚙️ 2. Install everything you need
+### ⚙️ 2. Install everything you need
 
 1. Open the Command Prompt (CMD): type `cmd` and press **Enter**  
    ![open-cmd](images/open-cmd.gif)  
@@ -25,3 +25,19 @@ This guide will help you create a standalone executable from the Python source c
 2. Navigate to the project folder:
    ```bash
    cd C:\BriCANet
+
+3. Install the required Python libraries with: 
+   ```bash
+   pip install -r requirements.txt
+
+4. Install PyInstaller (to create the executable) with:
+   ```bash
+   pip install pyinstaller
+
+
+### 🛠️ 3. Create the executable
+
+Run this command in the terminal:
+   ```bash
+   pyinstaller --onefile --windowed --name="BriCANet_Classifier" --clean --noconsole --hidden-import=tensorflow --hidden-import=pil BriCANet_GUI.py
+
