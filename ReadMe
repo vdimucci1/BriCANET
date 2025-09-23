@@ -1,0 +1,5 @@
+C:\BriCANET_GUI\
+├── BriCANet_GUI_new.py      (il codice principale)
+├── requirements.txt     (le librerie da installare)
+└── dist\
+    └── BriCANet_Classifier.exe  (ESEGUIBILE!!!!!)
