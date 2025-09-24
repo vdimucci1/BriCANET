@@ -69,9 +69,14 @@ C:\BriCANet\
 3. For each face:  
    - Select **"Corrosion Detected"** if corrosion is present.  
    - Upload the corresponding image.  
-4. Click **"Run Full Analysis"** to generate all results.   
+4. Click **"Run Full Analysis"** to generate all results.
+
+### 🎥 Demo Video
+
+![folder-structure](images/Tutorial.gif)
 
 ---
+
 
 ## ⚠️ Important Disclaimer & Development Status
 ![folder-structure](images/Disclaimer.gif)
