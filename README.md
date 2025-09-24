@@ -61,6 +61,16 @@ C:\BriCANet\
 └── 📁 build/                   (Temporary build files)
 ```
 
+## 🚀 How to Use the App
+
+1. Launch the application by running the Python file.  
+2. Load the `.h5` model using the dedicated button.  
+   - You can create this model by training it with the **`BriCANET_training.py`** script on your chosen dataset.  
+3. For each face:  
+   - Select **"Corrosion Detected"** if corrosion is present.  
+   - Upload the corresponding image.  
+4. Click **"Run Full Analysis"** to generate all results.   
+
 ---
 
 ## ⚠️ Important Disclaimer & Development Status
