@@ -85,6 +85,10 @@ C:\BriCANet\
 BriCANet is currently in active development and improvement phase, so this tool should be considered as a research prototype.
 
 ### 📚 Academic References
+
+If you use BriCANet, please cite the following work.
+
+```
 @article{XXXXXXXXXXXXX,
   title={XXXXXXXXXXXXXXXXXXX},
   author={XXXXXXXXXXXXXXX},
@@ -92,19 +96,21 @@ BriCANet is currently in active development and improvement phase, so this tool 
   year={2025},
   publisher={XXXXXXXXXXXXXXXXXXXX}
 }
+```
 
 ### 🏆 Institutions & Collaborators
-University/Affiliation: 
 
-<div align="center">
-Dipartimento di Ingegneria Civile, Ambientale, del Territorio, Edile e di Chimica
-Politecnico di Bari
-Via Orabona 4, Bari, 70126, Italy
+This repository is maintained by this wonderful team.
 
-Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato
-Consiglio Nazionale delle Ricerche (CNR)
-Via Amendola 122 D/O, Bari, 70126, Italy
+| Wonderful guy | Affiliation | How to reach |
+| ------------- | ----------- | ------------ |
+| Vincenzo Di Mucci | DICATECH[^1] | [v.dimucci1@phd.poliba.it](mailto:v.dimucci1@phd.poliba.it) |
+| Angelo Cardellicchio | STIIMA[^2] | [angelo.cardellicchio@cnr.it](mailto:angelo.cardellicchio@cnr.it) |
+| Sergio Ruggieri | DICATECH[^1] | [sergio.ruggieri@poliba.it](mailto:sergio.ruggieri@poliba.it) |
+| Andrea Nettis | DICATECH[^1] | [andrea.nettis@poliba.it](mailto:andrea.nettis@poliba.it) |
+| Vito Renò | STIIMA[^1] | [vito.reno@cnr.it](mailto:vito.reno@cnr.it) |
+| Giuseppina Uva | DICATECH[^1] | [giuseppina.uva@poliba.it](mailto:giuseppina.uva@poliba.it) |
 
-</div>
+[^1]: Dipartimento di Ingegneria Civile, Ambientale, del Territorio, Edile e di Chimica, Politecnico di Bari, Via Orabona 4, Bari, 70126, Italy
 
-### ⭐ Star this repo if you found it helpful!
+[^2]: Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato, Consiglio Nazionale delle Ricerche, Via Amendola 122 D/O, Bari, 70126, Italy
