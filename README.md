@@ -1,6 +1,12 @@
 # BriCANet Classifier - GUI Application 🧠
 
-Welcome to **BriCANet**, a powerful GUI application for corrosion intensity classification in RC structures images using deep learning. 
+Welcome to **BriCANet**, the companion repository for "Computer Vision-based seismic assessment of RC simply supported bridges characterized by corroded circular piers".
+
+This repository provides you with two scripts:
+
+* `BriCANET_training.py`, which can be used to train the BriCANET model on your data.
+* `BriCANET_GUI.py`, which is a powerful GUI application for corrosion intensity classification in RC structures images using the *BriCANET*.
+
 This guide will help you create a standalone executable from the Python source code.
 
 📸 *BriCANET Framework*  
@@ -10,14 +16,35 @@ This guide will help you create a standalone executable from the Python source c
 
 ## 🚀 Quick Start - Create Your Executable
 
-### 📂 1. Prepare the files
+### :alarm_clock: 0. Prepare your data
+
+The BriCANet model is expected to have a dataset composed by three different classes, that is, *low*, *medium*, and *high*, each one referring to a different level of corrosion. Therefore, the data folder should be arranged according to the following structure.
+
+```bash
+📁 dataset_path
+├── 📁 low              (Images showing low corrosion)
+├── 📁 medium           (Images showing medium corrosion)
+└── 📁 high             (Images showing high corrosion)
+```
+
+### :chart: 1. Train the model
+
+Run the `BriCANet_training.py` script as follows.
+
+```sh
+python BriCANet_training.py -d dataset_path
+```
+
+Where `dataset_path` is the folder arranged at step 0.
+
+### 📂 2. Prepare the files
 
 1. Create a folder on your computer (example: `C:\BriCANet\`)  
 2. Save the file **BriCANet_GUI.py** inside this folder  
 3. Save the file **requirements.txt** inside this folder  
 
 
-### ⚙️ 2. Install everything you need
+### ⚙️ 3. Install everything you need
 
 1. Open the Command Prompt (CMD): type `cmd` and press **Enter**  
    ![open-cmd](images/open-cmd.gif)  
@@ -38,21 +65,21 @@ This guide will help you create a standalone executable from the Python source c
    ```
 
 
-### 🛠️ 3. Create the executable 
+### 🛠️ 4. Create the executable 
 
-1. Run this command in the terminal:
+Run this command in the terminal:
+
    ```bash
    pyinstaller --onefile --windowed --name="BriCANet_Classifier" --clean --noconsole --hidden-import=tensorflow --hidden-import=pil BriCANet_GUI.py
    ```
 
-⏳ Wait until PyInstaller finishes…
-
-🎉 Done! BriCANet is ready to use!
+Wait until PyInstaller finishes and...done! BriCANet is ready to predict!  :fire:
 
 ---
 
 # 📊 Expected Folder Structure
-   ```bash
+
+```bash
 C:\BriCANet\
 ├── 📄 BriCANet_GUI.py          (Main application code)
 ├── 📄 requirements.txt         (Dependencies list)
@@ -79,12 +106,14 @@ C:\BriCANet\
 
 
 ## ⚠️ Important Disclaimer & Development Status
+
 ![folder-structure](images/Disclaimer.gif)
 
 ### 🔬 Research Development Phase
+
 BriCANet is currently in active development and improvement phase, so this tool should be considered as a research prototype.
 
-### 📚 Academic References
+### 📚 Cite this work
 
 If you use BriCANet, please cite the following work.
 
