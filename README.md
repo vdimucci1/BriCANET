@@ -133,7 +133,7 @@ This repository is maintained by this wonderful team.
 
 | Wonderful guy | Affiliation | How to reach |
 | ------------- | ----------- | ------------ |
-| Vincenzo Di Mucci | DICATECH[^1] | [v.dimucci1@phd.poliba.it](mailto:v.dimucci1@phd.poliba.it) |
+| Vincenzo Mario Di Mucci | DICATECH[^1] | [v.dimucci1@phd.poliba.it](mailto:v.dimucci1@phd.poliba.it) |
 | Angelo Cardellicchio | STIIMA[^2] | [angelo.cardellicchio@cnr.it](mailto:angelo.cardellicchio@cnr.it) |
 | Sergio Ruggieri | DICATECH[^1] | [sergio.ruggieri@poliba.it](mailto:sergio.ruggieri@poliba.it) |
 | Andrea Nettis | DICATECH[^1] | [andrea.nettis@poliba.it](mailto:andrea.nettis@poliba.it) |
