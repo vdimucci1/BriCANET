@@ -45,6 +45,10 @@ Where `dataset_path` is the folder arranged at step 0.
 
 
 ### ⚙️ 3. Install everything you need
+⚠️ **Important:** Make sure you have **Python 3.12.2** installed on your system before continuing.  
+You can download it from the official website: [**Python**](https://www.python.org/downloads/).  
+When installing, check the option **“Add Python to PATH”**.  
+
 
 1. Open the Command Prompt (CMD): type `cmd` and press **Enter**  
    ![open-cmd](images/open-cmd.gif)  
