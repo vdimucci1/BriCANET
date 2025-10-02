@@ -54,12 +54,32 @@ Where `dataset_path` is the folder arranged at step 0.
    cd C:\BriCANet
    ```
 
-3. Install the required Python libraries with: 
+3. Create a virtual environment:
+   ```bash
+   python -m venv BriCANET_env
+   ```
+
+4. Activate the virtual environmen:
+   - On Windows:
+   ```bash
+   BriCANET_env\Scripts\activate
+   ```
+   - On macOS/Linux:
+   ```bash
+   source BriCANET_env/bin/activate
+   ```
+
+5. Upgrade pip to the latest version:
+   ```bash
+   pip install --upgrade pip
+   ```
+
+6. Install the required Python libraries with: 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Install PyInstaller (to create the executable) with:
+7. Install PyInstaller (to create the executable) with:
    ```bash
    pip install pyinstaller
    ```
