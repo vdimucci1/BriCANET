@@ -166,7 +166,23 @@ This repository is maintained by this wonderful team.
 | Giuseppina Uva | POLIBA [^1] | [giuseppina.uva@poliba.it](mailto:giuseppina.uva@poliba.it) | [![Scopus](https://img.shields.io/badge/Scopus-Profile-orange?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=12143743700&source=sd-apx&adobe_mc=MCMID%3D08848743994237898301143928221677623271%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1759477503) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net) |
 
 ---
+<table>
+  <tr>
+    <td>
+      <img src="images/logos/poliba.png" alt="Poliba Logo" width="150"/>
+    </td>
+    <td>
+      <strong>POLIBA</strong> – Politecnico di Bari, DICATECh, Via Orabona 4, Bari, 70126, Italy
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/logos/stiima.png" alt="CNR Logo" width="150"/>
+    </td>
+    <td>
+      <strong>STIIMA</strong> – Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato, Consiglio Nazionale delle Ricerche, Via Amendola 122 D/O, Bari, 70126, Italy
+    </td>
+  </tr>
+</table>
 
-[^1]: ![Poliba Logo](images/logos/poliba.png) **POLIBA** – Politecnico di Bari, DICATECh, Via Orabona 4, Bari, 70126, Italy  
-[^2]: ![CNR Logo](images/logos/stiima.png) **STIIMA-CNR** – Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato, Consiglio Nazionale delle Ricerche, Via Amendola 122 D/O, Bari, 70126, Italy
 
