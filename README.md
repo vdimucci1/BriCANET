@@ -155,15 +155,18 @@ If you use BriCANet, please cite the following work.
 
 This repository is maintained by this wonderful team.
 
-| Wonderful guy | Affiliation | How to reach |
-| ------------- | ----------- | ------------ |
-| Vincenzo Mario Di Mucci | DICATECH[^1] | [v.dimucci1@phd.poliba.it](mailto:v.dimucci1@phd.poliba.it) |
-| Angelo Cardellicchio | STIIMA[^2] | [angelo.cardellicchio@cnr.it](mailto:angelo.cardellicchio@cnr.it) |
-| Sergio Ruggieri | DICATECH[^1] | [sergio.ruggieri@poliba.it](mailto:sergio.ruggieri@poliba.it) |
-| Andrea Nettis | DICATECH[^1] | [andrea.nettis@poliba.it](mailto:andrea.nettis@poliba.it) |
-| Vito Renò | STIIMA[^1] | [vito.reno@cnr.it](mailto:vito.reno@cnr.it) |
-| Giuseppina Uva | DICATECH[^1] | [giuseppina.uva@poliba.it](mailto:giuseppina.uva@poliba.it) |
 
-[^1]: Dipartimento di Ingegneria Civile, Ambientale, del Territorio, Edile e di Chimica, Politecnico di Bari, Via Orabona 4, Bari, 70126, Italy
+| Wonderful guy | Affiliation | How to reach | Contacts |
+| ------------- | ----------- | ------------ | -------- |
+| Vincenzo Mario Di Mucci | POLIBA [^1] | [v.dimucci1@phd.poliba.it](mailto:v.dimucci1@phd.poliba.it) | [![Scopus](https://img.shields.io/badge/Scopus-Profile-orange?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59278301400) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net) |
+| Angelo Cardellicchio | STIIMA [^2] | [angelo.cardellicchio@cnr.it](mailto:angelo.cardellicchio@cnr.it) | [![Scopus](https://img.shields.io/badge/Scopus-Profile-orange?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=56786372800) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net) |
+| Sergio Ruggieri | POLIBA [^1] | [sergio.ruggieri@poliba.it](mailto:sergio.ruggieri@poliba.it) | [![Scopus](https://img.shields.io/badge/Scopus-Profile-orange?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57200721168) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net) |
+| Andrea Nettis | POLIBA [^1] | [andrea.nettis@poliba.it](mailto:andrea.nettis@poliba.it) | [![Scopus](https://img.shields.io/badge/Scopus-Profile-orange?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57214778072) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net) |
+| Vito Renò | STIIMA [^2] | [vito.reno@cnr.it](mailto:vito.reno@cnr.it) | [![Scopus](https://img.shields.io/badge/Scopus-Profile-orange?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=56433738300&source=sd-apx&adobe_mc=MCMID%3D08848743994237898301143928221677623271%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1759477479) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net) |
+| Giuseppina Uva | POLIBA [^1] | [giuseppina.uva@poliba.it](mailto:giuseppina.uva@poliba.it) | [![Scopus](https://img.shields.io/badge/Scopus-Profile-orange?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=12143743700&source=sd-apx&adobe_mc=MCMID%3D08848743994237898301143928221677623271%7CMCORGID%3D4D6368F454EC41940A4C98A6%2540AdobeOrg%7CTS%3D1759477503) [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net) |
 
-[^2]: Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato, Consiglio Nazionale delle Ricerche, Via Amendola 122 D/O, Bari, 70126, Italy
+---
+
+[^1]: ![Poliba Logo](assets/logos/poliba.png) **POLIBA** – Politecnico di Bari, DICATECh, Via Orabona 4, Bari, 70126, Italy  
+[^2]: ![CNR Logo](assets/logos/cnr.png) **STIIMA-CNR** – Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato, Consiglio Nazionale delle Ricerche, Via Amendola 122 D/O, Bari, 70126, Italy
+
