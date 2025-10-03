@@ -167,6 +167,6 @@ This repository is maintained by this wonderful team.
 
 ---
 
-[^1]: ![Poliba Logo](assets/logos/poliba.png) **POLIBA** – Politecnico di Bari, DICATECh, Via Orabona 4, Bari, 70126, Italy  
-[^2]: ![CNR Logo](assets/logos/cnr.png) **STIIMA-CNR** – Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato, Consiglio Nazionale delle Ricerche, Via Amendola 122 D/O, Bari, 70126, Italy
+[^1]: ![Poliba Logo](images/logos/poliba.png) **POLIBA** – Politecnico di Bari, DICATECh, Via Orabona 4, Bari, 70126, Italy  
+[^2]: ![CNR Logo](images/logos/stiima.png) **STIIMA-CNR** – Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato, Consiglio Nazionale delle Ricerche, Via Amendola 122 D/O, Bari, 70126, Italy
 
