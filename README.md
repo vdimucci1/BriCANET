@@ -142,12 +142,13 @@ BriCANet is currently in active development and improvement phase, so this tool 
 If you use BriCANet, please cite the following work.
 
 ```
-@article{XXXXXXXXXXXXX,
-  title={XXXXXXXXXXXXXXXXXXX},
-  author={XXXXXXXXXXXXXXX},
-  journal={XXXXXXXXXXXXXXXX},
-  year={2025},
-  publisher={XXXXXXXXXXXXXXXXXXXX}
+@article{DiMucci2025,
+  author = {Vincenzo Mario Di Mucci and Angelo Cardellicchio and Sergio Ruggieri and Andrea Nettis and Vito Renò and Giuseppina Uva},
+  title = {Computer vision-based seismic assessment of RC simply supported bridges characterized by corroded circular piers},
+  journal = {Bulletin of Earthquake Engineering},
+  issn = {1573-1456},
+  doi = {10.1007/s10518-025-02291-x},
+  url = {https://doi.org/10.1007/s10518-025-02291-x}
 }
 ```
 
